@@ -1,6 +1,6 @@
 # test
 
-graph TD
+
     subgraph "Azure Cloud"
         subgraph "Data Storage (ADLS Gen2)"
             A[fa:fa-file-code Raw Data] --> B;
